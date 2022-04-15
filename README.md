@@ -1,5 +1,5 @@
 # Note:
-# This repo is meant for a Mac M1 machine running linux in Parallels
+# This repo is meant for a Mac M1 machine running Linux in Parallels
 
 # Realtek RTL8811CU/RTL8821CU USB wifi adapter driver version 5.4.1 for Linux 4.4.x up to 5.x
 
