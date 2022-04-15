@@ -6,6 +6,7 @@ MakeFile updated from original repo to work with Mac M1 machines
 Tested with:
 - Mac M1 machine (I'm using a MacBook Pro 13 M1)
 - Ubuntu ARM
+- USB Wifi Adapter
 - Parallels 17
 
 # Realtek RTL8811CU/RTL8821CU USB wifi adapter driver version 5.4.1 for Linux 4.4.x up to 5.x
