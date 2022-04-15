@@ -1,6 +1,13 @@
 # Note:
 # This repo is meant for a Mac M1 machine running Linux in Parallels
 
+MakeFile updated from original repo to work with Mac M1 machines
+
+Tested with:
+- Mac M1 machine (I'm using a MacBook Pro 13 M1)
+- Ubuntu ARM
+- Parallels 17
+
 # Realtek RTL8811CU/RTL8821CU USB wifi adapter driver version 5.4.1 for Linux 4.4.x up to 5.x
 
 Before build this driver make sure `make`, `gcc`, `linux-header`/`kernel-devel`, `bc` and `git` have been installed.
